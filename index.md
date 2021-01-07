@@ -11,7 +11,7 @@ A definition of Computer Literacy as been approved as the competencies and outco
 
 | Number 	| Title 	| Max. Credits 	| Date Approved 	|
 |-	|-	|-	|-	|
-| 100 	| Computer Careers Exploration 	| 4 	| 10/19/01 	|
+| 100 	| Computer Careers Exploration {: .red } 	| 4 	| 10/19/01 	|
 | 101 	| Computer Fundamentals I 	| 4 	| 10/26/89 	|
 | 102x 	| Computer Fundamentals II 	| 4 	| 10/26/89 	|
 | ... 	| ...	| ... 	| ...	|

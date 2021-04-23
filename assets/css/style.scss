@@ -7,10 +7,18 @@
     background: #fff;
 }
 
+#forkme_banner {
+    display: none;
+}
+
+footer p:nth-child(2) {
+    display: none;
+}
+
 .red {
-  color: red;
- }
- 
- .table-class th {
-  font-weight: bold;
- }
+    color: red;
+}
+
+.table-class th {
+    font-weight: bold;
+}
